@@ -1,0 +1,10 @@
+E:\Level_3_Year_2\Access to HE\GA33COM08 Structured Programming\Currency_Calculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Level_3_Year_2\Access to HE\GA33COM08 Structured Programming\Currency_Calculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Level_3_Year_2\Access to HE\GA33COM08 Structured Programming\Currency_Calculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Level_3_Year_2\Access to HE\GA33COM08 Structured Programming\Currency_Calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Level_3_Year_2\Access to HE\GA33COM08 Structured Programming\Currency_Calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Level_3_Year_2\Access to HE\GA33COM08 Structured Programming\Currency_Calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Level_3_Year_2\Access to HE\GA33COM08 Structured Programming\Currency_Calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Level_3_Year_2\Access to HE\GA33COM08 Structured Programming\Currency_Calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Level_3_Year_2\Access to HE\GA33COM08 Structured Programming\Currency_Calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Level_3_Year_2\Access to HE\GA33COM08 Structured Programming\Currency_Calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
